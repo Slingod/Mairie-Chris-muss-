@@ -1,0 +1,347 @@
+=== LISTE DES MAIRIES ET LEURS EMAILS ===
+name: Mairie - Ableiges
+email: mairie.ableiges95@wanadoo.fr
+name: Mairie - Aincourt
+email: mairie.aincourt@orange.fr
+name: Mairie - Ambleville
+email: mairie@ville-ambleville.fr
+name: Mairie - Amenucourt
+email: mairie.amenucourt@wanadoo.fr
+name: Mairie - Andilly
+email: secretariat@mairie-andilly.fr
+name: Mairie - Arnouville
+email: sgeneral@arnouville95.org
+name: Mairie - Arronville
+email: arronville@wanadoo.fr
+name: Mairie - Asnières-sur-Oise
+email: mairie@aso95.fr
+name: Mairie - Attainville
+email: mairie@attainville.fr
+name: Mairie - Auvers-sur-Oise
+email: sec.gen@ville-auverssuroise.fr
+name: Mairie - Avernes
+email: mairie@avernes95.fr
+name: Mairie - Baillet-en-France
+email: info@baillet-en-france.fr
+name: Mairie - Banthelu
+email: mairie.banthelu@wanadoo.fr
+name: Mairie - Beauchamp
+email: administration.generale@ville-beauchamp.fr
+name: Mairie - Beaumont-sur-Oise
+email: accueil.mairie@beaumontsuroise.fr
+name: Mairie - Bellefontaine
+email: mairiesecretariat@bellefontaine.fr
+name: Mairie - Belloy-en-France
+email: mairie@belloy-en-france.fr
+name: Mairie - Bernes-sur-Oise
+email: mairie@bernes95.fr
+name: Mairie - Berville
+email: mairie.de.berville@wanadoo.fr
+name: Mairie - Béthemont-la-Forêt
+email: mairie.bethemont-laforet@wanadoo.fr
+name: Mairie - Bezons
+email: contact@mairie-bezons.fr
+name: Mairie - Boisemont
+email: mairie@ville-boisemont.fr
+name: Mairie - Boissy-l'Aillerie
+email: contact@boissy-laillerie.fr
+name: Mairie - Bonneuil-en-France
+email: mairie@bonneuil-en-france.fr
+name: Mairie - Bouffémont
+email: communication@ville-bouffemont.fr
+name: Mairie - Bouqueval
+email: mairiebouqueval@wanadoo.fr
+name: Mairie - Bray-et-Lû
+email: accueil@mairiebrayetlu.fr
+name: Mairie - Bréançon
+email: mairie.breancon95@orange.fr
+name: Mairie - Brignancourt
+email: brignancourt@orange.fr
+name: Mairie - Bruyères-sur-Oise
+email: mairie@bruyeres-sur-oise.fr
+name: Mairie - Buhy
+email: mairie.buhy@wanadoo.fr
+name: Mairie - Butry-sur-Oise
+email: mairiedebutrysuroise@wanadoo.fr
+name: Mairie - Cergy
+email: contact@cergy.fr
+name: Mairie - Champagne-sur-Oise
+email: accueil@villedechampagne.fr
+name: Mairie - Charmont
+email: mairie.charmont@wanadoo.fr
+name: Mairie - Chars
+email: administration@mairie-chars.fr
+name: Mairie - Châtenay-en-France
+email: censiere@club-internet.fr
+name: Mairie - Chaumontel
+email: mairie@ville-chaumontel.fr
+name: Mairie - Chaussy
+email: mairie.chaussy@wanadoo.fr
+name: Mairie - Chauvry
+email: mairie.de.chauvry@orange.fr
+name: Mairie - Chennevières-lès-Louvres
+email: mairie@chennevieresleslouvres.fr
+name: Mairie - Chérence
+email: mairie.cherence@wanadoo.fr
+name: Mairie - Cléry-en-Vexin
+email: commune-de-clery@wanadoo.fr
+name: Mairie - Commeny
+email: mairiecommeny@wanadoo.fr
+name: Mairie - Condécourt
+email: mairie.condecourt@wanadoo.fr
+name: Mairie - Cormeilles-en-Parisis
+email: contact@ville-cormeilles95.fr
+name: Mairie - Cormeilles-en-Vexin
+email: mairie@cormeilles-en-vexin.fr
+name: Mairie - Courdimanche
+email: mairie@ville-courdimanche.fr
+name: Mairie - Deuil-la-Barre
+email: accueil@deuillabarre.fr
+name: Mairie - Domont
+email: contact24@domont.fr
+name: Mairie - Eaubonne
+email: accueil@eaubonne.fr
+name: Mairie - Enghien-les-Bains
+email: etatcivil@enghien95.fr
+name: Mairie - Ennery
+email: mairie@ennery.fr
+name: Mairie - Épiais-lès-Louvres
+email: mairieepiais-leslouvres@wanadoo.fr
+name: Mairie - Épiais-Rhus
+email: mairie.epiais-rhus@wanadoo.fr
+name: Mairie - Épinay-Champlâtreux
+email: mairie@epinaychamplatreux.fr
+name: Mairie - Éragny
+email: com@eragny.fr
+name: Mairie - Ermont
+email: mairie@ville-ermont.fr
+name: Mairie - Ézanville
+email: secretariat.mairie@ezanville.fr
+name: Mairie - Fontenay-en-Parisis
+email: mairiefontenay@fontenayenparisis.fr
+name: Mairie - Fosses
+email: contact@ville-fosses95.fr
+name: Mairie - Franconville
+email: monsieurlemaire@ville-franconville.fr
+name: Mairie - Frémainville
+email: mairie@fremainville.fr
+name: Mairie - Frémécourt
+email: mairiefremecourt@orange.fr
+name: Mairie - Frépillon
+email: mairie@frepillon.fr
+name: Mairie - Frouville
+email: mairie-frouville95@wanadoo.fr
+name: Mairie déléguée - Gadancourt
+email: mairie@avernes95.fr
+name: Mairie - Garges-lès-Gonesse
+email: mairiedegarges@villedegarges.onmicrosoft.com
+name: Mairie - Genainville
+email: mairie-genainville@wanadoo.fr
+name: Mairie - Génicourt
+email: mairie@genicourt.fr
+name: Mairie - Goussainville
+email: mairie@ville-goussainville.fr
+name: Mairie déléguée - Gouzangrez
+email: mairiedegouzangrez@orange.fr
+name: Mairie - Grisy-les-Plâtres
+email: mairie@grisylesplatres.fr
+name: Mairie - Groslay
+email: communication@mairie-groslay.fr
+name: Mairie - Guiry-en-Vexin
+email: mairie.guiry-en-vexin@wanadoo.fr
+name: Mairie - Haravilliers
+email: commune.haravilliers@orange.fr
+name: Mairie - Haute-Isle
+email: mairie-hauteisle@wanadoo.fr
+name: Mairie - Hédouville
+email: mairie-hedouville@wanadoo.fr
+name: Mairie - Herblay
+email: mairie@herblay.fr
+name: Mairie - Hérouville-en-Vexin
+email: contact@herouville-en-vexin.net
+name: Mairie - Hodent
+email: mairie.hodent@orange.fr
+name: Mairie - Jagny-sous-Bois
+email: mairie.jagny-sous-bois@orange.fr
+name: Mairie - Jouy-le-Moutier
+email: mairie@jouylemoutier.fr
+name: Mairie - L'Isle-Adam
+email: s.communication@ville-isle-adam.fr
+name: Mairie - Labbeville
+email: mairie@labbeville.fr
+name: Mairie - La Chapelle-en-Vexin
+email: mairie@lachapelleenvexin.fr
+name: Mairie - La Frette-sur-Seine
+email: mairie@lafrettesurseine.fr
+name: Mairie - La Roche-Guyon
+email: mairie.larocheguyon@wanadoo.fr
+name: Mairie - Lassy
+email: mairie-de-lassy@orange.fr
+name: Mairie - Le Bellay-en-Vexin
+email: mairie@lebellayenvexin.com
+name: Mairie - Le Heaulme
+email: mairie-de-le-heaulme@orange.fr
+name: Mairie - Le Mesnil-Aubry
+email: n-bergerat.mairie@orange.fr
+name: Mairie - Le Perchay
+email: mairie.leperchay@wanadoo.fr
+name: Mairie - Le Plessis-Bouchard
+email: mairie@leplessisbouchard.fr
+name: Mairie - Le Plessis-Gassot
+email: le.plessis.gassot@wanadoo.fr
+name: Mairie - Le Plessis-Luzarches
+email: mairieplessisluzarches@orange.fr
+name: Mairie - Le Thillay
+email: secretariatdumaire@mairie-le-thillay.fr
+name: Mairie - Livilliers
+email: mairie@livilliers.fr
+name: Mairie - Longuesse
+email: contact@mairie-longuesse.fr
+name: Mairie - Louvres
+email: communication@ville-louvres.fr
+name: Mairie - Luzarches
+email: urbanisme@luzarches.net
+name: Mairie - Maffliers
+email: mairie-maffliers@wanadoo.fr
+name: Mairie - Magny-en-Vexin
+email: mairie@magny-en-vexin.fr
+name: Mairie - Mareil-en-France
+email: mairie.mareil.france@wanadoo.fr
+name: Mairie - Margency
+email: info@mairie-margency.fr
+name: Mairie - Marines
+email: accueil@mairie-marines.org
+name: Mairie - Marly-la-Ville
+email: mairie@marlylaville.fr
+name: Mairie - Maudétour-en-Vexin
+email: mairie.maudetour@wanadoo.fr
+name: Mairie - Menouville
+email: commune-de-menouville@orange.fr
+name: Mairie - Menucourt
+email: accueil.mairie@menucourt.fr
+name: Mairie - Mériel
+email: accueil@ville-de-meriel.fr
+name: Mairie - Méry-sur-Oise
+email: urbanisme@merysuroise.fr
+name: Mairie - Moisselles
+email: secretariat@mairie-moisselles.fr
+name: Mairie - Montgeroult
+email: mairie-de-montgeroult@wanadoo.fr
+name: Mairie - Montigny-lès-Cormeilles
+email: secretariatgeneral@ville-montigny95.fr
+name: Mairie - Montlignon
+email: mairie@montlignon.fr
+name: Mairie - Montmagny
+email: cabinetdumaire@ville-montmagny.fr
+name: Mairie - Montmorency
+email: communication@ville-montmorency.fr
+name: Mairie - Montreuil-sur-Epte
+email: mairie@montreuilsurepte.eu
+name: Mairie - Montsoult
+email: info@mairie-montsoult.fr
+name: Mairie - Mours
+email: secretaire.mairie.mours@wanadoo.fr
+name: Mairie - Nerville-la-Forêt
+email: mairie@nervillelaforet.fr
+name: Mairie - Nesles-la-Vallée
+email: accueil.mairie@nesleslavallee.fr
+name: Mairie - Neuilly-en-Vexin
+email: mairie.neuilly-en-vexin@wanadoo.fr
+name: Mairie - Neuville-sur-Oise
+email: affgenerales@neuvillesuroise.fr
+name: Mairie - Nointel
+email: nointel-mairie@wanadoo.fr
+name: Mairie - Noisy-sur-Oise
+email: mairie.de.noisy.sur.oise@wanadoo.fr
+name: Mairie - Nucourt
+email: mairie@nucourt.fr
+name: Mairie - Omerville
+email: mairie@omerville.fr
+name: Mairie - Osny
+email: mairie@ville-osny.fr
+name: Mairie - Parmain
+email: communication@ville-parmain.fr
+name: Mairie - Persan
+email: mairie@ville-persan.fr
+name: Mairie - Pierrelaye
+email: accueil-mairie@ville-pierrelaye.fr
+name: Mairie - Piscop
+email: contact@mairie-piscop.fr
+name: Mairie - Presles
+email: mairie@ville-presles.fr
+name: Mairie - Puiseux-en-France
+email: mairie@puiseux-en-france.fr
+name: Mairie - Puiseux-Pontoise
+email: mairie.puiseux-pontoise.95@wanadoo.fr
+name: Mairie - Roissy-en-France
+email: accueil@ville-roissy95.fr
+name: Mairie - Ronquerolles
+email: mairie.ronquerolles95@wanadoo.fr
+name: Mairie - Sagy
+email: mairie.sagy@orange.fr
+name: Mairie - Saint-Brice-sous-Forêt
+email: espaceaccueil@saintbrice95.fr
+name: Mairie - Saint-Clair-sur-Epte
+email: mairie-stclairsurepte@orange.fr
+name: Mairie - Saint-Cyr-en-Arthies
+email: mairie.stcyrenarthies@wanadoo.fr
+name: Mairie - Saint-Gervais
+email: mairie.saintgervais@wanadoo.fr
+name: Mairie - Saint-Gratien
+email: accueil.dstua@mairie-saintgratien.fr
+name: Mairie - Saint-Leu-la-Forêt
+email: cab@saint-leu-la-foret.fr
+name: Mairie - Saint-Martin-du-Tertre
+email: accueil@mairie-saintmartin95.fr
+name: Mairie - Saint-Ouen-l'Aumône
+email: courrier@ville-soa.fr
+name: Mairie - Saint-Prix
+email: mairie@saintprix.fr
+name: Mairie - Saint-Witz
+email: mairie@saint-witz.fr
+name: Mairie - Santeuil
+email: mairie@santeuil.fr
+name: Mairie - Seraincourt
+email: mairie.seraincourt95@wanadoo.fr
+name: Mairie - Seugy
+email: accueil@mairie-seugy.fr
+name: Mairie - Soisy-sous-Montmorency
+email: mairie@soisy-sous-montmorency.fr
+name: Mairie - Survilliers
+email: contact@mairiesurvilliers.fr
+name: Mairie - Théméricourt
+email: mairie@themericourt.fr
+name: Mairie - Theuville
+email: mairiedetheuville@orange.fr
+name: Mairie - Us
+email: mairie.us.95@wanadoo.fr
+name: Mairie - Vallangoujard
+email: secretariat@vallangoujard.fr
+name: Mairie - Valmondois
+email: mairie@valmondois.fr
+name: Mairie - Vaudherland
+email: mairievaudherland@orange.fr
+name: Mairie - Vauréal
+email: contact@mairie-vaureal.fr
+name: Mairie - Vémars
+email: mairievemars@mairievemars.fr
+name: Mairie - Vétheuil
+email: mairiedevetheuil@orange.fr
+name: Mairie - Viarmes
+email: hoteldeville@viarmes.fr
+name: Mairie - Vienne-en-Arthies
+email: mairie.viennearthies@wanadoo.fr
+name: Mairie - Vigny
+email: mairie.vigny@wanadoo.fr
+name: Mairie - Villaines-sous-Bois
+email: mairie@villaines-sous-bois.fr
+name: Mairie - Villeron
+email: contactvilleron@roissy-online.com
+name: Mairie - Villers-en-Arthies
+email: mairie.villers@free.fr
+name: Mairie - Villiers-Adam
+email: mairie@villiers-adam.fr
+name: Mairie - Villiers-le-Sec
+email: mairievillierslesec95720@orange.fr
+name: Mairie - Wy-dit-Joli-Village
+email: mairie.wy-dit-joli-village@wanadoo.fr
